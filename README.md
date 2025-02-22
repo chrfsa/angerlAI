@@ -2,3 +2,4 @@
 
     pour lancé l'app avec stream lit utiliser la commande stremlit run app.py.
     
+![interface](logo.png)
